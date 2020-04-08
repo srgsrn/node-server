@@ -1,0 +1,8 @@
+# dependencies
+node_modules
+
+# misc
+.idea/
+
+# mac_os
+**/*.DS_Store
